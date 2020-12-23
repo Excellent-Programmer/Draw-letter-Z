@@ -1,0 +1,6 @@
+D:\Draw with C#\letter Z\letter Z\bin\Debug\letter Z.exe.config
+D:\Draw with C#\letter Z\letter Z\bin\Debug\letter Z.exe
+D:\Draw with C#\letter Z\letter Z\bin\Debug\letter Z.pdb
+D:\Draw with C#\letter Z\letter Z\obj\Debug\letter Z.csproj.CoreCompileInputs.cache
+D:\Draw with C#\letter Z\letter Z\obj\Debug\letter Z.exe
+D:\Draw with C#\letter Z\letter Z\obj\Debug\letter Z.pdb
